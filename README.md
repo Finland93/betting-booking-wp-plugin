@@ -31,3 +31,17 @@ The **Betting Bookings** plugin empowers users to efficiently manage their betti
 - `[OverallScore]`: Displays the overall score for wins and losses.
 
 Feel free to explore and contribute to the GitHub repository. Your feedback and contributions are greatly appreciated!
+---
+### Supporters
+---
+- [Kryptolompakko.net](https://Kryptolompakko.net)
+- [Kryptoporssi.net](https://Kryptoporssi.net)
+- [Kryptoverotus.net](https://Kryptoverotus.net)
+- [Krypto-kurssit.net](https://Krypto-kurssit.net)
+- [Paras-liittyma.fi](https://Paras-liittyma.fi)
+- [Korkoa-korolle.fi](https://Korkoa-korolle.fi)
+- [Lainalaskelma.fi](https://Lainalaskelma.fi)
+- [Porssisahko-nyt.fi](https://Porssisahko-nyt.fi)
+- [Aurinkopaneeli.com](https://Aurinkopaneeli.com)
+- [Sahkotarjous.org](https://Sahkotarjous.org)
+- [Affirotta.fi](https://Affirotta.fi)
