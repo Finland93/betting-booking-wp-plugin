@@ -34,3 +34,4 @@ Feel free to explore and contribute to the GitHub repository. Your feedback and 
 ### Supporters
 ---
 - [Pikakasino.xyz](https://Pikakasino.xyz)
+- [Instant-Casino.xyz](https://Instant-Casino.xyz)
