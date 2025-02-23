@@ -33,5 +33,4 @@ The **Betting Bookings** plugin empowers users to efficiently manage their betti
 Feel free to explore and contribute to the GitHub repository. Your feedback and contributions are greatly appreciated!
 ### Supporters
 ---
-- [Pikakasino.xyz](https://Pikakasino.xyz)
-- [Instant-Casino.xyz](https://Instant-Casino.xyz)
+- [FSTCasino.com](https://fstcasino.com)
