@@ -31,6 +31,3 @@ The **Betting Bookings** plugin empowers users to efficiently manage their betti
 - `[OverallScore]`: Displays the overall score for wins and losses.
 
 Feel free to explore and contribute to the GitHub repository. Your feedback and contributions are greatly appreciated!
-### Supporters
----
-- [FSTCasino.com](https://fstcasino.com)
